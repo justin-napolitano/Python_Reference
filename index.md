@@ -1,13 +1,13 @@
 ---
 slug: github-python-reference
-title: 'Python_Reference: Collection of Core Algorithms and Data Structures in Python'
+title: 'Python Reference: Algorithms and Data Structures Collection'
 repo: justin-napolitano/Python_Reference
 githubUrl: https://github.com/justin-napolitano/Python_Reference
 generatedAt: '2025-11-23T09:30:32.053534Z'
 source: github-auto
 summary: >-
-  Collection of fundamental Python implementations for data structures and algorithms including
-  sorting, searching, trees, graphs, and recursion.
+  Explore a practical repository of fundamental algorithms and data structures
+  implemented in Python for educational and reference purposes.
 tags:
   - python
   - algorithms
@@ -15,21 +15,30 @@ tags:
   - sorting
   - graphs
   - educational-code
-seoPrimaryKeyword: python algorithms
-seoSecondaryKeywords:
   - data structures
-  - sorting algorithms
-  - graph algorithms
-  - python code examples
+  - searching
+  - linked lists
+  - trees
+  - heaps
+seoPrimaryKeyword: python algorithms reference
+seoSecondaryKeywords:
+  - data structures in python
+  - python sorting algorithms
+  - graph algorithms python
+  - educational python repository
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.7
 topicFamilyNotes: >-
-  The post is a collection of Python scripts implementing algorithms and data structures, primarily
-  focused on coding and development. While it centers on code for algorithmic implementations rather
-  than automation scripts directly, the closest match in the given families is 'automation' which
-  includes Python projects and scripting. Other families like datascience or devtools don't align
-  well with the content about core algorithm and data structure implementations.
+  The post is a collection of Python scripts implementing algorithms and data
+  structures, primarily focused on coding and development. While it centers on
+  code for algorithmic implementations rather than automation scripts directly,
+  the closest match in the given families is 'automation' which includes Python
+  projects and scripting. Other families like datascience or devtools don't
+  align well with the content about core algorithm and data structure
+  implementations.
+kind: project
+id: github-python-reference
 ---
 
 # Technical Overview of Python_Reference Repository
