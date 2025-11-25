@@ -1,20 +1,30 @@
 ---
 slug: github-python-reference
 id: github-python-reference
-title: Python_Reference
+title: 'Python Reference: Algorithms and Data Structures in Python'
 repo: justin-napolitano/Python_Reference
 githubUrl: https://github.com/justin-napolitano/Python_Reference
 generatedAt: '2025-11-24T21:36:06.417Z'
 source: github-auto
 summary: >-
-  Python_Reference is a curated collection of fundamental algorithms and data
-  structures implemented in Python. It serves as a practical reference for
-  developers looking to understand or implement classic algorithms ranging from
-  sorting and searching to graph algorithms and data structures.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a curated collection of fundamental algorithms and data structures
+  implemented in Python for practical reference and learning.
+tags:
+  - python
+  - algorithms
+  - data structures
+  - sorting algorithms
+  - search algorithms
+  - graph algorithms
+  - utility scripts
+seoPrimaryKeyword: python algorithms reference
+seoSecondaryKeywords:
+  - data structures in python
+  - sorting algorithms python
+  - search algorithms python
+  - graph algorithms python
+  - python utility scripts
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
